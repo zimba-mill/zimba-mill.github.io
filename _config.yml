@@ -16,7 +16,7 @@ author: 津巴布韋百萬富翁
 navbar-links:
   關於本blog: "aboutme"
 　有用資源:
-    - Bitcoin白皮書123 : "(https://bitcoin.org/bitcoin.pdf){:target="_blank"}"
+    #- Bitcoin白皮書123 : "(https://bitcoin.org/bitcoin.pdf){:target="_blank"}"
     - Bitcoin白皮書 : "https://bitcoin.org/bitcoin.pdf"
     #- Bitcoin白皮書 : <a href="{{ https://bitcoin.org/bitcoin.pdf }}" target="_blank">{{ Bitcoin白皮書 }}</a>
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
