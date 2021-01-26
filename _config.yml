@@ -23,7 +23,7 @@ navbar-links:
     #- Bitcoin白皮書 : <a href="{{ https://bitcoin.org/bitcoin.pdf }}" target="_blank">{{ Bitcoin白皮書 }}</a>
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
-  #Author's home: "https://deanattali.com"
+  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
