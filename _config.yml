@@ -16,6 +16,7 @@ author: 津巴布韋百萬富翁
 navbar-links:
   About Me: "aboutme"
   Resources:
+    - Bitcoin白皮書 : "https://bitcoin.org/bitcoin.pdf"
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
