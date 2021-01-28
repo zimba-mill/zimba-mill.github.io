@@ -4,13 +4,12 @@ title: 關於本BLOG
 #subtitle: Why you'd want to go on a date with me
 ---
 
-作者於2017年crypto泡沫期間接觸Blockchain科技，
+作者於2017年crypto泡沫期間接觸
+
+Cryptocurrency Blockchain科技，
 
 
 
-
-
-不作價格預測
 
 
 
