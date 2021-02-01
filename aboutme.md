@@ -6,12 +6,18 @@ title: 關於本BLOG
 
 作者於2017年開始接觸crypto
 
-
-
-
 泡沫期間
+數年內
 
-Cryptocurrency Blockchain科技，
+
+
+
+Cryptocurrency是金錢、科技、
+
+
+的交匯點
+
+Blockchain
 
 
 
