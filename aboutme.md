@@ -7,8 +7,6 @@ title: 關於本BLOG
 作者自2017年開始接觸crypto，從此每日研習當中各種知識  
 數年來尚算累積了一點經驗，決定寫blog紀錄個人心得
 
-<br>
-
 ### 為何要認識Crypto
 
 Crypto並非純粹的投機活動，而是前所未有的經濟、科技、社會劇變的交集 。Bitcoin面世十年有餘，由最初毫無金錢價值到現時數萬美元一個，經過社會輿論[數百次斷言Bitcoin已死](https://99bitcoins.com/bitcoin-obituaries/)，由零到一的轉變絕對令人震驚。  
