@@ -16,9 +16,6 @@ Bitcoin面世十年有餘，由最初毫無金錢價值到現時數萬美元一�
 與其輕易否定Crypto的價值，懷疑者不妨問一個問題:為何有一群大傻瓜對此一直孜孜不倦?  
 是他們不可救藥? 還是他們擁有我不了解的知識?
 
-<br />
-<br />
-
 ### 如何使用本BLOG
 
 任何人投資前應先自行評估自身及[投資加密貨幣風險](https://apps.sfc.hk/edistributionWeb/gateway/TC/news-and-announcements/news/doc?refNo=18PR13) ，切勿在情緒影響下作出不理性決定。  
