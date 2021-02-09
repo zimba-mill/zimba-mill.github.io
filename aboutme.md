@@ -4,8 +4,8 @@ title: 關於本BLOG
 #subtitle: Why you'd want to go on a date with me
 ---
 
-作者自2017年開始接觸crypto，從此每日研習當中各種知識  
-數年來尚算累積了一點經驗，決定寫blog紀錄個人心得
+作者自2017年開始接觸crypto，從此沉迷研習當中各種知識  
+尚算累積了一點顯淺經驗，寫blog以紀錄及分享個人心得  
 
 ### 為何要認識Crypto
 
