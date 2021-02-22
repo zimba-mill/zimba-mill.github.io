@@ -12,6 +12,10 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 **Here is some bold text**
 
+
+<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
+<coingecko-coin-price-chart-widget currency="usd" coin-id="ethereum" locale="en" height="300"></coingecko-coin-price-chart-widget>
+
 ## Here is a secondary heading
 
 Here's a useless table:
